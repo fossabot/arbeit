@@ -1,4 +1,6 @@
 # arbeit
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJanAhrens%2Farbeit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJanAhrens%2Farbeit?ref=badge_shield)
+
 
 **arbeit** is my tool for tracking working hours. It stores the daily
 working hours in JSON. The file gets versioned with Git (*planned feature*).
@@ -34,3 +36,7 @@ End your day (uses the current time):
 Take a break:
 
 > arbeit break
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJanAhrens%2Farbeit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJanAhrens%2Farbeit?ref=badge_large)
